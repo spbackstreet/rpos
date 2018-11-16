@@ -1,0 +1,21 @@
+http://104.211.158.165/WS_RposLog/
+
+https://azure.microsoft.com/en-us/pricing/calculator/
+jmespath.org
+http://www.powershellgallery.com
+
+
+
+Deployments using powershell
+Deployments using powershell extension
+
+Web App - Visual Studio
+Debugging
+Virtual Network. Subnet
+Stiing up NSG - Network Security Group
+Networking - DNS Zone
+Static IP
+
+VM Scaling - Resizing VM
+Scalling up Vertically
+Scalling out Horizontally
