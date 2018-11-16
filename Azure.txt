@@ -19,3 +19,4 @@ Static IP
 VM Scaling - Resizing VM
 Scalling up Vertically
 Scalling out Horizontally
+	Have made this change for Git Testing
